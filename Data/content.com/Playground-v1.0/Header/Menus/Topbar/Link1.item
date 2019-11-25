@@ -1,0 +1,26 @@
+<items>
+	<item path="/m2.content.com/playground-v1.0/header/menus/topbar/link1" language="en" version="1" parentid="{85F0C24C-4518-428B-AF8D-9C17B938B777}" id="{41ED635C-98A2-4A0A-9DAC-2F07B5CE615D}" template="menu item template" templateId="{E4AE7812-45A0-4933-9805-153E624786CD}" key="link1" name="Link1">
+		<fields>
+			<field key="htmlattributes" type="Bwin Name Value List Sorted">
+				<content>
+					<bwinnamevalue>
+						<entry key="class">theme-info</entry>
+						<entry key="data-m2-authstate">unauthenticated-disabled workflow-hide</entry>
+					</bwinnamevalue>
+				</content>
+			</field>
+			<field key="linktext" type="Single-Line Text">
+				<content>
+					<![CDATA[ onecolpage ]]>
+				</content>
+			</field>
+			<field key="linkreference" type="BwinLink">
+				<content>
+					<![CDATA[
+<a href="http://testweb.vanilla-m2.bwin.dev/en/p/onecolpage"></a>
+]]>
+				</content>
+			</field>
+		</fields>
+	</item>
+</items>

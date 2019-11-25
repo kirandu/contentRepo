@@ -1,0 +1,5 @@
+<items>
+	<item path="/m2.content.com/playground-v1.0/header" language="en" version="1" parentid="{F368FA3B-0CB7-4FD6-AE0C-517729C14D63}" id="{23882F9E-1519-45A3-97FA-86EE1B47CA32}" template="folder" templateId="{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}" key="header" name="Header">
+		<fields/>
+	</item>
+</items>

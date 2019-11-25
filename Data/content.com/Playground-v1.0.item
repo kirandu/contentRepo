@@ -1,0 +1,21 @@
+<items>
+	<item path="/m2.content.com/playground-v1.0" language="en" version="1" parentid="{5AD576CB-BD7D-4901-9D00-D4485D115266}" id="{F368FA3B-0CB7-4FD6-AE0C-517729C14D63}" template="plugin root" templateId="{A262FCE6-16C3-4AC1-8719-5F36E07820EF}" key="playground-v1.0" name="Playground-v1.0">
+		<fields>
+			<field key="product" type="Checklist">
+				<content>
+/sitecore/templates/vanilla/framework/plugin root/basedata/product/vanillatestplugin
+</content>
+			</field>
+			<field key="productcontact" type="Multi-Line Text">
+				<content>
+					<![CDATA[ owned by Vanilla Framework Team, Vienna ]]>
+				</content>
+			</field>
+			<field key="technicalcontact" type="Multi-Line Text">
+				<content>
+					<![CDATA[ owned by Vanilla Framework Team, Vienna ]]>
+				</content>
+			</field>
+		</fields>
+	</item>
+</items>

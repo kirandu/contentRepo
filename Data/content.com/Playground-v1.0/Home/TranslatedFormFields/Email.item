@@ -1,0 +1,16 @@
+<items>
+	<item path="/m2.content.com/playground-v1.0/home/translatedformfields/email" language="en" version="1" parentid="{82EE1699-27A8-4ACE-B630-75233482A09D}" id="{D21B46B0-D573-408B-B9DD-F7176FF43EEB}" template="form element template" templateId="{7F68A206-55DF-48ED-B892-38B0904EECC2}" key="email" name="Email">
+		<fields>
+			<field key="label" type="Single-Line Text">
+				<content>
+					<![CDATA[ Email ]]>
+				</content>
+			</field>
+			<field key="validation" type="Bwin Name Value List Sorted">
+				<content>
+					<bwinnamevalue></bwinnamevalue>
+				</content>
+			</field>
+		</fields>
+	</item>
+</items>

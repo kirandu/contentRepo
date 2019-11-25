@@ -1,0 +1,73 @@
+<items>
+	<item path="/m2.content.com/playground-v1.0/home/translatedformfields" language="en" version="1" parentid="{7E3BF67D-C52F-44B6-A766-C4EFDBD589DD}" id="{82EE1699-27A8-4ACE-B630-75233482A09D}" template="view template" templateId="{7CD37151-E5B0-4024-92B0-BFFE32426344}" key="translatedformfields" name="TranslatedFormFields">
+		<fields>
+			<field key="validation" type="Bwin Name Value List Sorted">
+				<content>
+					<bwinnamevalue>
+						<entry key="Required">The {0} field is required (message set at form level).</entry>
+						<entry key="StringLength">The field {0} must be a string with a maximum length of {1}.</entry>
+						<entry key="StringLength_IncludeMin">The field {0} must be a string with a minimum length of {1} and a maximum length of {2}.</entry>
+					</bwinnamevalue>
+				</content>
+			</field>
+			<field key="trackingvalues" type="BwinTracking">
+				<content>
+					<trackinglist>
+						<trackingitem source="Cookie-mmcore.bwinvar" track="eVar40" value="" />
+						<trackingitem source="Cookie-mmcore.bwinvar" track="prop40" value="" />
+						<trackingitem source="Cookie-NativeApplication" track="eVar32" value="" />
+						<trackingitem source="Cookie-NativeApplication" track="prop32" value="" />
+						<trackingitem source="cookie-trackerid" track="eVar67" value="" />
+						<trackingitem source="cookie-trackerid" track="prop67" value="" />
+						<trackingitem source="cookie-trid-id" track="eVar55" value="" />
+						<trackingitem source="cookie-trid-id" track="prop55" value="" />
+						<trackingitem source="cookie-trid-name" track="eVar56" value="" />
+						<trackingitem source="cookie-trid-name" track="prop56" value="" />
+						<trackingitem source="cookie-trid-zone" track="eVar51" value="" />
+						<trackingitem source="cookie-trid-zone" track="prop51" value="" />
+						<trackingitem source="language" track="prop1" value="" />
+						<trackingitem source="language" track="eVar1" value="" />
+						<trackingitem source="qs-_layout" track="eVar21" value="" />
+						<trackingitem source="qs-_layout" track="prop21" value="" />
+						<trackingitem source="qs-channelid" track="eVar7" value="" />
+						<trackingitem source="qs-channelid" track="prop7" value="" />
+						<trackingitem source="qs-guid" track="eVar31" value="" />
+						<trackingitem source="qs-guid" track="prop31" value="" />
+						<trackingitem source="qs-nl" track="prop19" value="" />
+						<trackingitem source="qs-nl" track="eVar19" value="" />
+						<trackingitem source="qs-trackerid" track="prop20" value="" />
+						<trackingitem source="qs-trackerid" track="eVar20" value="" />
+						<trackingitem source="qs-trid" track="eVar12" value="" />
+						<trackingitem source="qs-trid" track="prop12" value="" />
+						<trackingitem source="qs-zoneid" track="campaign" value="" />
+						<trackingitem source="request-client" track="eVar41" value="" />
+						<trackingitem source="request-client" track="prop41" value="" />
+						<trackingitem source="request-host" track="server" value="" />
+						<trackingitem source="request-path" track="pageName" value="" />
+						<trackingitem source="request-path" track="event" value="GTMEvent" />
+						<trackingitem source="request-pathandquery" track="eVar15" value="" />
+						<trackingitem source="request-pathandquery" track="prop15" value="" />
+						<trackingitem source="request-referrer" track="prop13" value="" />
+						<trackingitem source="request-referrer" track="eVar13" value="" />
+						<trackingitem source="request-serverIP" track="prop14" value="" />
+						<trackingitem source="request-useragent" track="prop8" value="" />
+						<trackingitem source="request-useragent" track="eVar8" value="" />
+						<trackingitem source="rv-area" track="channel" value="" />
+						<trackingitem source="user-accountId" track="eVar6" value="" />
+						<trackingitem source="user-accountId" track="prop6" value="" />
+						<trackingitem source="user-country" track="eVar14" value="" />
+						<trackingitem source="user-currency" track="currencyCode" value="" />
+						<trackingitem source="user-ip2locationcountry" track="eVar17" value="" />
+						<trackingitem source="user-ip2locationcountry" track="prop17" value="" />
+						<trackingitem source="user-loginStatus" track="prop2" value="" />
+						<trackingitem source="user-loginStatus" track="eVar2" value="" />
+						<trackingitem source="user-loyaltyCategory" track="eVar25" value="" />
+						<trackingitem source="user-loyaltyCategory" track="prop25" value="" />
+						<trackingitem source="user-status" track="prop29" value="" />
+						<trackingitem source="user-status" track="eVar29" value="" />
+					</trackinglist>
+				</content>
+			</field>
+		</fields>
+	</item>
+</items>

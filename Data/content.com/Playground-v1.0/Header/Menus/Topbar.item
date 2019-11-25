@@ -1,0 +1,11 @@
+<items>
+	<item path="/m2.content.com/playground-v1.0/header/menus/topbar" language="en" version="1" parentid="{953D02FD-402C-457B-8C59-1337018D0B93}" id="{85F0C24C-4518-428B-AF8D-9C17B938B777}" template="menu item template" templateId="{E4AE7812-45A0-4933-9805-153E624786CD}" key="topbar" name="Topbar">
+		<fields>
+			<field key="htmlattributes" type="Bwin Name Value List Sorted">
+				<content>
+					<bwinnamevalue></bwinnamevalue>
+				</content>
+			</field>
+		</fields>
+	</item>
+</items>
