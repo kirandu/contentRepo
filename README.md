@@ -49,13 +49,13 @@ output:
                               </fields>
                </item>
 </items>
-´´´
+```
  
 Samples2:
 Input: https://localhost:5001/content?path=content.com&depth=1
  
 output:
-´´´xml
+```xml
 <items>
 	<item path="/content.com" language="en" version="1" parentid="{98518673-BC81-4F01-BD3A-4094574EF9BB}"
         id="{5AD576CB-BD7D-4901-9D00-D4485D115266}"
@@ -98,4 +98,4 @@ output:
 	</item>
 </items>
 
-´´´
+```
